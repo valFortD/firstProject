@@ -1,3 +1,3 @@
 #firstProject
 
-Rock-Paper-Scissor game with cpp
+Rock-Paper-Scissor game with cpp, created on VS code. Linux Ubuntu
